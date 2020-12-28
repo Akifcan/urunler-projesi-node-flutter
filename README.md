@@ -17,4 +17,4 @@
 !(image)[https://prnt.sc/wbr7dz]
 
 ### Mockup Phone
-(Mockup Phone)[https://mockuphone.com/#ios]
+[Mockup Phone](https://mockuphone.com/#ios)
